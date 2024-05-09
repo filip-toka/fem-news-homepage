@@ -1,0 +1,9 @@
+@use "sass:map";
+@use "variables";
+
+@function getColor($clr) {
+    @if not (map.has-key(variables.$colors, $clr)) {
+        @error "This color does not exist!";   
+    }
+    @return map.get(variables.$colors, $clr);
+}
