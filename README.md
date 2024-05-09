@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/filip-toka/fem-news-homepage)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://filip-toka.github.io/fem-news-homepage)
 
 ## My process
 
